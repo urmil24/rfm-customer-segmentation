@@ -20,7 +20,7 @@ Businesses struggle to identify valuable customers and optimize marketing strate
 - Age group 26–35 spends the most
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard.png)
+(https://github.com/urmil24/rfm-customer-segmentation/blob/b01fbbda55706965750ae643c0e8a578350b9d35/Customer%20Segmentation%20%26%20Sales%20Analysis%20Dashboard.pbix)
 
 ## 📁 Files
 - `rfm_analysis.ipynb` → Python code
